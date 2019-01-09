@@ -1,8 +1,5 @@
 Hello, It's my best learning.
+newbranch16 thick
 
-Editing in new branch10
-Create new Branch10
-
->>>>>>> origin/master
 
 # learning
