@@ -1,8 +1,6 @@
 Hello, It's my best learning.
-
-Editing in new branch10
+Editing in new branch14
 Create new Branch10
 
->>>>>>> origin/master
 
 # learning
